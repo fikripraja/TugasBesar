@@ -15,6 +15,6 @@ Kelompok :
 
 Muhamad Fikri Praja Sasmita (5160411326)
 
-Irham Sajid (5160
+Irham Sajid (5160411334)
 
-Cyntya
+Cyntya Dwy A (5160411302)
