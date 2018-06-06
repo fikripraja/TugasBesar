@@ -25,3 +25,5 @@ Cyntya Dwy A (5160411302)
 - Files Bisa di download di atas dengan nama : RentalMobil.rar
 
 - Files sudah termasuk Project oleh Visual Studio 2015 dan database menggunakan SQL YOG.
+
+- Untuk output program ada di dalam Laporan Tugas Besar Pemrograman Terstruktur (Rental Mobil).pdf
