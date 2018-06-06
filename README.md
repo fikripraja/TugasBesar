@@ -20,6 +20,8 @@ Irham Sajid (5160411334)
 Cyntya Dwy A (5160411302)
 
 
-Files Bisa di download di atas dengan nama : RentalMobil.rar
 
-Files sudah termasuk Project oleh Visual Studio 2015 dengan database menggunakan SQL YOG.
+
+- Files Bisa di download di atas dengan nama : RentalMobil.rar
+
+- Files sudah termasuk Project oleh Visual Studio 2015 dengan database menggunakan SQL YOG.
